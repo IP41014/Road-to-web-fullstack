@@ -137,6 +137,8 @@
     <ClCompile Include="do-while.cpp" />
     <ClCompile Include="switch.cpp" />
     <ClCompile Include="vending machine.cpp" />
+    <ClCompile Include="구조체.cpp" />
+    <ClCompile Include="구조체변수.cpp" />
     <ClCompile Include="메모리 지속시간.cpp" />
     <ClCompile Include="사칙연산.cpp" />
     <ClCompile Include="전역변수.cpp" />

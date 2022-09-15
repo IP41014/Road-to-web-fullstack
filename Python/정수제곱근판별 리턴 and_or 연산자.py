@@ -13,5 +13,6 @@ def nextSqure(n):
     # 둘 중에 하나만 참이면 참인 값을 반환한다.
     
 print("결과 : {}".format(nextSqure(122)))
+print("결과 : {}".format(nextSqure(122)))
 
 

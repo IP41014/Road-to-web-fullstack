@@ -130,7 +130,9 @@
     <ClCompile Include="area of a circle.cpp" />
     <ClCompile Include="area of a square.cpp" />
     <ClCompile Include="areaa.cpp" />
-    <ClCompile Include="array.cpp" />
+    <ClCompile Include="array.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="array_2.cpp" />
     <ClCompile Include="call-by-value.cpp" />
     <ClCompile Include="comparing numbers.cpp" />

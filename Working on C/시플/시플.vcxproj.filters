@@ -30,10 +30,16 @@
     <ClCompile Include="멤버변수를 갖는 클래스.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="회사직원관리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="해시.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="회사직원관리.cpp">
+    <ClCompile Include="인사시스템.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="예외처리.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

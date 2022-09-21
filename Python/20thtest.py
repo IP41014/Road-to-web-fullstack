@@ -11,3 +11,4 @@ def prime(n):
 for i in range(n + 1):
     if prime(i):
         print(i) 
+        

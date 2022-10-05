@@ -1,1 +1,3 @@
-﻿
+﻿  싱글톤패턴2.cpp
+C:\Users\KOSTA\Documents\GitHub\Road-to-web-fullstack\Working on C\시플\싱글톤패턴2.cpp(51,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  시플.vcxproj -> C:\Users\KOSTA\Documents\GitHub\Road-to-web-fullstack\Working on C\시플\x64\Debug\시플.exe
